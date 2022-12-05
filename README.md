@@ -17,7 +17,7 @@ By Prajwal Zingare
   - I learned about how dom works
   - I learned about how to get properties and manipulate them with dom manipulation
 - I learned how to manipulate dom with queryselector.
-- Ther is so much new concept that i learn while solving this assighnment you can solve alos for understanding of dom in depth
+- Ther is so much new concept that i learn while solving this assighnment you can solve also for understanding of dom in depth.
 
   ## Time required for finishing the peoject
   - It takes me near about 8 hours to complete the project.
