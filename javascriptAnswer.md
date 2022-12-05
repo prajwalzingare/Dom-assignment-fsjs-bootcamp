@@ -15,6 +15,14 @@ document.querySelector(".side-bar .crayons-card p" ).innerText="I am FullStack J
 ### code
 ```javascript
 
+const lists = document.querySelectorAll(".as-imagegrid-item")
+const resultArray = []
+lists.forEach((listItem)=>{
+    const result = listItem.innerText.replace("Support", "")
+
+    console.log(result)
+})
+
  ```
  ### output
  
